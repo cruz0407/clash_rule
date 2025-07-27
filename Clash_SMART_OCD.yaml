@@ -316,7 +316,7 @@ rules:
   - RULE-SET, TikTok_OCD_Domain, 🎵 TikTok
 
   - RULE-SET, Steam_OCD_Domain, 🚂 Steam
-  - RULE-SET, SteamCN_OCD_Domain, 🚂 Steam
+  - RULE-SET, SteamCN_OCD_Domain, 🎯 直连
 
   - RULE-SET, Netflix_OCD_Domain, 🎥 Netflix
   - RULE-SET, Netflix_OCD_IP, 🎥 Netflix,no-resolve
